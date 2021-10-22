@@ -36,3 +36,6 @@ Save and Load:
 
 1. If you want to save the current status of the rubik, use the 'Save' button.
 2. When you want to resume a play, use the 'Load' button to upload the saved status. 
+
+
+A video example can be found in WeChat Public Platform:  https://mp.weixin.qq.com/s/Fss7bNh1MIXv0iqKAUoCfw
